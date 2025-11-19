@@ -1,7 +1,7 @@
 
-# FAQ Search Application
+# Page Scraper API
 
-This is a simple FAQ search application that allows users to search for frequently asked questions.
+A lightweight Express API that scrapes basic page information (title, meta description, H1) from a given URL using Puppeteer in headless mode.
 
 ## Setup Instructions
 
